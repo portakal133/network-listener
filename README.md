@@ -10,7 +10,8 @@ open the path "cd network-listener"
 
 
 
-Requirements download "pip install -r modules.py"
+Requirements download "pip install -r modules.txt
+"
 
 
 
